@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 Aspiring Data Analyst | Fresher<br><br>🐍 Skilled in Python, SQL, Excel, Power BI<br><br>🔍 Strong interest in data cleaning, EDA & visualization<br><br>📈 Love turning raw data into clear insights & dashboards<br><br>🌱 Learning through hands-on projects & real datasets<br><br>🎯 Goal: Grow into a data-driven problem solver
+📊 Aspiring Data Analyst | Fresher<br><br>🐍 Skilled in Python, SQL, Excel, Power BI, Tableau, Gen AI(Langchain & Huggingface)<br><br>🔍 Strong interest in data cleaning, EDA & visualization<br><br>📈 Love turning raw data into clear insights & dashboards<br><br>🌱 Learning through hands-on projects & real datasets<br><br>🎯 Goal: Grow into a data-driven problem solver
 
 
 ## 🌐 Socials:
